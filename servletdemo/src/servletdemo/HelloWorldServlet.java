@@ -1,4 +1,4 @@
-package servletpackage.servletdemo;
+package servletdemo;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -21,7 +21,6 @@ public class HelloWorldServlet extends HttpServlet {
      */
     public HelloWorldServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	/**
